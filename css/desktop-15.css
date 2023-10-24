@@ -1,0 +1,46 @@
+/* screen - desktop-15 */
+
+.desktop-15 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 435px;
+  height: 1024px;
+  padding: 79px 75.1px;
+  width: 1440px;
+}
+
+.desktop-15 .overlap-group {
+  height: 266px;
+  margin-left: 506px;
+  margin-top: 300px;
+  position: relative;
+  width: 278px;
+}
+
+.desktop-15 .title {
+  color: var(--black);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.desktop-15 .icon-moon {
+  height: 266px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 266px;
+}
+
+.desktop-15 .icon-home {
+  cursor: pointer;
+  height: 62px;
+  width: 71px;
+}

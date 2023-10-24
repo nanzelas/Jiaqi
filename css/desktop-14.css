@@ -1,0 +1,74 @@
+/* screen - desktop-14 */
+
+.desktop-14 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 21px;
+  height: 1222px;
+  padding: 78px 75.1px;
+  width: 1440px;
+}
+
+.desktop-14 .icon-chevron-left {
+  margin-left: 52px;
+  margin-top: 1008px;
+}
+
+.desktop-14 .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 84px;
+  min-height: 1065px;
+  width: 1178px;
+}
+
+.desktop-14 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 42px;
+  height: 924px;
+  min-width: 1178px;
+}
+
+.desktop-14 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 113px;
+  min-height: 924px;
+  width: 1065px;
+}
+
+.desktop-14 .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 55px;
+  white-space: nowrap;
+}
+
+.desktop-14 .overlap-group {
+  height: 756px;
+  position: relative;
+  width: 1065px;
+}
+
+.desktop-14 .icon-moon {
+  height: 266px;
+  left: 400px;
+  position: absolute;
+  top: 133px;
+  width: 266px;
+}
+
+.desktop-14 .icon-home {
+  cursor: pointer;
+  height: 62px;
+  margin-top: 1px;
+  width: 71px;
+}
+
+.desktop-14 .icon-chevron-right {
+  margin-right: 51.78px;
+}

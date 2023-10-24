@@ -1,0 +1,84 @@
+/* screen - desktop-10 */
+
+.desktop-10 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 22px;
+  height: 1024px;
+  padding: 73.0px 75.1px;
+  width: 1440px;
+}
+
+.desktop-10 .icon-chevron-left {
+  margin-left: 52px;
+  margin-top: 820.95px;
+}
+
+.desktop-10 .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 249px;
+  margin-top: 4.95px;
+  min-height: 873px;
+  width: 1177px;
+}
+
+.desktop-10 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 41px;
+  height: 567px;
+  min-width: 1177px;
+}
+
+.desktop-10 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 230px;
+  min-height: 567px;
+  width: 1065px;
+}
+
+.desktop-10 .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 55px;
+  white-space: nowrap;
+}
+
+.desktop-10 .overlap-group {
+  height: 282px;
+  position: relative;
+  width: 1065px;
+}
+
+.desktop-10 .this-week-i-have-lea {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1065px;
+}
+
+.desktop-10 .icon-moon {
+  height: 266px;
+  left: 399px;
+  position: absolute;
+  top: 16px;
+  width: 266px;
+}
+
+.desktop-10 .icon-home {
+  cursor: pointer;
+  height: 62px;
+  margin-top: 1px;
+  width: 71px;
+}
+
+.desktop-10 .icon-chevron-right {
+  margin-right: 51.78px;
+}

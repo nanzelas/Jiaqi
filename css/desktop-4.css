@@ -1,0 +1,76 @@
+/* screen - desktop-4 */
+
+.desktop-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 25px;
+  height: 1024px;
+  padding: 73.0px 75.1px;
+  width: 1440px;
+}
+
+.desktop-4 .icon-chevron-left {
+  margin-left: 48px;
+  margin-top: 820.95px;
+}
+
+.desktop-4 .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 167px;
+  margin-top: 4.95px;
+  min-height: 873px;
+  width: 1178px;
+}
+
+.desktop-4 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 42px;
+  height: 649px;
+  min-width: 1178px;
+}
+
+.desktop-4 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 162px;
+  min-height: 649px;
+  width: 1065px;
+}
+
+.desktop-4 .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  min-height: 55px;
+  white-space: nowrap;
+}
+
+.desktop-4 .overlap-group {
+  height: 432px;
+  position: relative;
+  width: 1065px;
+}
+
+.desktop-4 .icon-moon {
+  height: 266px;
+  left: 400px;
+  position: absolute;
+  top: 84px;
+  width: 266px;
+}
+
+.desktop-4 .icon-home {
+  cursor: pointer;
+  height: 62px;
+  margin-top: 1px;
+  width: 71px;
+}
+
+.desktop-4 .icon-chevron-right {
+  margin-right: 55.78px;
+}

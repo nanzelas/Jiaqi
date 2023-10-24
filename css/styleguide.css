@@ -1,0 +1,30 @@
+:root { 
+  --black: #000000;
+  --white: #ffffff;
+ 
+  --font-size-l: 48px;
+  --font-size-m: 32px;
+  --font-size-xl: 64px;
+  --font-size-xxl: 96px;
+  --font-size-xxxl: 128px;
+ 
+  --font-family-arial-bold: "Arial-Bold", Helvetica;
+  --font-family-arial-italic: "Arial-Italic", Helvetica;
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-besley: "Besley", Helvetica;
+}
+.arial-bold-black-48px {
+  color: var(--black);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.besley-normal-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-besley);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}

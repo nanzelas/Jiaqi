@@ -1,0 +1,83 @@
+/* screen - desktop-2 */
+
+.desktop-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 21px;
+  height: 1222px;
+  padding: 78px 75.1px;
+  width: 1440px;
+}
+
+.desktop-2 .icon-chevron-left {
+  margin-left: 52px;
+  margin-top: 1008px;
+}
+
+.desktop-2 .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 246px;
+  min-height: 1065px;
+  width: 1178px;
+}
+
+.desktop-2 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 42px;
+  height: 762px;
+  min-width: 1178px;
+}
+
+.desktop-2 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 167px;
+  min-height: 762px;
+  width: 1065px;
+}
+
+.desktop-2 .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 55px;
+  white-space: nowrap;
+}
+
+.desktop-2 .overlap-group {
+  height: 540px;
+  position: relative;
+  width: 1065px;
+}
+
+.desktop-2 .during-the-week-i-l {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1065px;
+}
+
+.desktop-2 .icon-moon {
+  height: 266px;
+  left: 400px;
+  position: absolute;
+  top: 79px;
+  width: 266px;
+}
+
+.desktop-2 .icon-home {
+  cursor: pointer;
+  height: 62px;
+  margin-top: 1px;
+  width: 71px;
+}
+
+.desktop-2 .icon-chevron-right {
+  margin-right: 51.78px;
+}

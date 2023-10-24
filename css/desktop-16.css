@@ -1,0 +1,73 @@
+/* screen - desktop-16 */
+
+.desktop-16 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  padding: 226px 0;
+  width: 1440px;
+}
+
+.desktop-16 .title {
+  color: var(--black);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 110px;
+  min-width: 1008px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.desktop-16 .jiaqi-zongs-blog {
+  align-self: flex-end;
+  color: #787878;
+  font-family: var(--font-family-arial-italic);
+  font-size: var(--font-size-l);
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 216px;
+  margin-top: 120px;
+  min-height: 55px;
+  min-width: 360px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.desktop-16 .group-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 3.0px;
+  margin-top: 171px;
+  min-width: 269px;
+}
+
+.desktop-16 .overlap-group {
+  align-items: flex-start;
+  border: 3px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 108px;
+  min-width: 267px;
+  padding: 14px 62px;
+}
+
+.desktop-16 .place {
+  color: #193762;
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 74px;
+  min-width: 136px;
+  text-align: center;
+  white-space: nowrap;
+}
